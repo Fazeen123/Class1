@@ -1,1 +1,2 @@
-Its second code bfor something
+Its second code bfor something.
+First changes did in second doc.
